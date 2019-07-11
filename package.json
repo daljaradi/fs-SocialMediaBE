@@ -1,0 +1,33 @@
+{
+  "name": "fullstack-socialmedia",
+  "version": "1.0.0",
+  "description": "fullStack-socilamedia",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.1",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "express-validator": "^5.3.1",
+    "formidable": "^1.2.1",
+    "git": "^0.1.5",
+    "gitignore": "^0.6.0",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.6.3",
+    "mongoose-mongodb-errors": "0.0.2",
+    "morgan": "^1.9.1",
+    "nodemailer": "^6.2.1",
+    "nodemon": "^1.19.1",
+    "uuid": "^3.3.2"
+  }
+}
